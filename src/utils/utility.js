@@ -1,0 +1,1 @@
+export const BaseURL ='https://wgfidvtzcblzcnstkyae.supabase.co/storage/v1/object/public/profile_picture'
